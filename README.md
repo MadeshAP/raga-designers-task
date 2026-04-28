@@ -1,6 +1,6 @@
 # Raga Designers - Portfolio Website
 
-A modern, responsive portfolio website for a creative design agency, built with HTML5, CSS3, and vanilla JavaScript.
+A modern, responsive portfolio website for a creative design agency, built with HTML5, CSS3, and JavaScript.
 
 ## 🎯 Design Decisions
 
