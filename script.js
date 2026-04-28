@@ -1,5 +1,3 @@
-// Custom JavaScript for Raga Designers Homepage
-
 document.addEventListener('DOMContentLoaded', function() {
     const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
     const navbarCollapse = document.querySelector('.navbar-collapse');
