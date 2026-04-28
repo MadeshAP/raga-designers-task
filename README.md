@@ -83,7 +83,6 @@ and named it has`logo2.png`.
 ## Improvements for Production / With More Time
 
 ### 1. **Backend Integration**
-- Implement server-side contact form handling (Node.js, etc.)
 - Add email notification system using services like SendGrid.
 - Database integration for portfolio entries and testimonials
 
